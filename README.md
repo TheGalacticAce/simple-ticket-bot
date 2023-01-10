@@ -6,6 +6,7 @@ Welcome! simple-ticket-bot is meant to be an easy way to make a simple ticket bo
 
 ### Requirements 
 Node 16.9.0 or higher
+
 Git
 
 ### Step by step explanation: 
