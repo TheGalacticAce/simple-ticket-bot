@@ -31,3 +31,7 @@ And after that I would suggest running `npm init -y` to check if everything is c
 npm init -y
 ```
 
+<hr>
+
+And that's all you need to do! It's that simple. If you have any issues feel free to contact me.
+
