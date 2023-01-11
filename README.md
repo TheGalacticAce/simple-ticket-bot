@@ -43,9 +43,6 @@ node deploy-commands.js
 node .
 ```
 
-
-```
-
 <hr>
 
 And that's all you need to do! It's that simple. If you have any issues feel free to contact me.
