@@ -30,6 +30,20 @@ npm init
 And after that I would suggest running `npm init -y` to check if everything is correct.
 ```
 npm init -y
+
+5. Run `node deploy-commands.js` to refresh the commands
+
+```
+node deploy-commands.js
+```
+
+6. Run `node .` to run the bot! Once you have that done your bot should be ready.
+
+```
+node .
+```
+
+
 ```
 
 <hr>
