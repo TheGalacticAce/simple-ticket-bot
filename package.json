@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "discord-html-transcripts": "^3.1.2",
+    "discord.js": "^14.7.1"
+  },
+  "name": "simple-ticket-bot",
+  "version": "1.2.0",
+  "description": "A simple ticket bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node ."
+  },
+  "author": "TheGalacticAce",
+  "license": "ISC",
+  "keywords": [],
+  "repository": {},
+  "devDependencies": {}
+}
