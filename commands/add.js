@@ -1,6 +1,5 @@
 const { SlashCommandBuilder, PermissionFlagsBits } = require('discord.js')
 const { PermissionsBitField } = require("discord.js")
-const { ticketOpen } = require('./new')
 
 module.exports = {
     data: new SlashCommandBuilder()
