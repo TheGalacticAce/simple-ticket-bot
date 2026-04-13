@@ -1,6 +1,6 @@
 # About
 
-Welcome! simple-ticket-bot is meant to be an easy way to make a simple ticket bot to your needs! It only takes four easy steps to set up.
+Welcome! simple-ticket-bot is meant to be an easy way to make a simple ticket bot to your needs! It only takes six easy steps to set up.
 
 # Installation
 
